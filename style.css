@@ -1,0 +1,108 @@
+body {
+ 	background: #077054;
+	font-size: 20px;
+	
+     }
+#events {
+	font-family: Algerian;
+}
+#departments {
+	font-family: Algerian;
+
+}
+#affliated {
+	font-family: Algerian;
+}
+#ceg {
+	font-family: Algerian;
+}
+
+
+#header {
+	
+	width: 70%;
+	margin: 3em auto 0 auto ;
+	font-size: 1.7em; 
+	font-family: 'latoregular'
+	font-weight: 300px;
+	color: palegreen;
+        }
+ul li  {
+	padding: 1.7em;
+	padding-left: 0;	
+	display: inline;
+	font-family: latoregular;
+ 	color: silver;
+	}	
+	
+div #navbar {
+	width: 70%;
+	text-align: center;	
+	margin: 3em auto 0 auto;
+	}	
+#header4 {
+	margin-top: 0;
+	padding: 0;
+	color: lightgray;
+ 	}
+#body1 {
+	width: 80%;
+	margin: 0 auto 0 auto;
+	background-color: white;
+	height: 1000px;
+	font-size: 11px;
+	
+}
+#college2 {
+		padding-left: 1em;
+	margin: 1em auto 1em auto;
+	width: 50%;
+	float: left;
+	font-size: 20px;
+	text-align: left;
+	line-height: 1.5em;
+	font-family: latoregular;
+}
+div #college {
+	padding-left: 1em;
+	margin: 1em auto 1em auto;
+	width: 50%;
+	float: left;
+	font-size: 24px;
+	text-align: center;
+	line-height:3em;
+	font-family: latoregular;
+}
+div #image{
+	margin-top: 13em;
+	padding: 5em auto 5em auto;
+	width: 47%;
+	float: right;
+}
+a {
+		text-decoration: none;
+	}
+	#marquee {
+		font-size: 20px;
+		color: red;
+	
+	}
+#college3 {
+		padding-left: 1em;
+	margin: 1em auto 1em auto;
+	width: 50%;
+	float: left;
+	font-size: 18px;
+	text-align: center;
+	line-height:1.5em;
+	font-family: latoregular;
+
+}
+#faculty {
+	font-family: Algerian;
+}
+ul li#announce {
+	color: black;
+}
+}
+
